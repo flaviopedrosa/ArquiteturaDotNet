@@ -1,0 +1,106 @@
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\WebApiCliente.dll.config
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\WebApiCliente.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\WebApiCliente.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Antlr3.Runtime.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Newtonsoft.Json.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Net.Http.Formatting.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Helpers.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Http.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Http.WebHost.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Mvc.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Optimization.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Razor.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.Razor.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\WebGrease.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Newtonsoft.Json.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Net.Http.Formatting.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Helpers.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Http.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Http.WebHost.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Mvc.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Optimization.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Razor.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.Razor.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Antlr3.Runtime.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\obj\Debug\WebApiCliente.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\obj\Debug\WebApiCliente.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\obj\Debug\WebApiCliente.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\obj\Debug\WebApiCliente.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\obj\Debug\WebApiCliente.pdb
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\WebApiCliente.dll.config
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\WebApiCliente.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\WebApiCliente.pdb
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Antlr3.Runtime.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AI.Agent.Intercept.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AI.DependencyCollector.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.ApplicationInsights.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.Web.Infrastructure.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Newtonsoft.Json.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Diagnostics.DiagnosticSource.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Net.Http.Formatting.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Helpers.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Http.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Http.WebHost.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Mvc.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Optimization.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Razor.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.Deployment.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.Razor.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\WebGrease.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Newtonsoft.Json.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Net.Http.Formatting.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Helpers.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Http.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Http.WebHost.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Mvc.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Optimization.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.Razor.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.Deployment.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Web.WebPages.Razor.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Antlr3.Runtime.pdb
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\System.Diagnostics.DiagnosticSource.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\Microsoft.AI.DependencyCollector.xml
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Helpers.resources.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Http.resources.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Mvc.resources.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Optimization.resources.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.Razor.resources.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.WebPages.resources.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\obj\Debug\WebApiCliente.csprojAssemblyReference.cache
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\obj\Debug\WebApiCliente.csproj.CoreCompileInputs.cache
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\obj\Debug\WebApiCliente.csproj.CopyComplete
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\obj\Debug\WebApiCliente.dll
+C:\TrabalhoFinalDotNet\Clientes\WebApiCliente\WebApiCliente\obj\Debug\WebApiCliente.pdb

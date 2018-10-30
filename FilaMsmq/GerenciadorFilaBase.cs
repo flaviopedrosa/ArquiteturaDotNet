@@ -32,6 +32,6 @@ namespace FilaMsmq
 
         }
 
-        public abstract void Processar();
+        public abstract T Processar();
     }
 }

@@ -1,0 +1,18 @@
+C:\My Projects\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll.config
+C:\My Projects\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll
+C:\My Projects\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.pdb
+C:\My Projects\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csprojResolveAssemblyReference.cache
+C:\My Projects\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.dll
+C:\My Projects\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.pdb
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll.config
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.pdb
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csprojResolveAssemblyReference.cache
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.dll
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.pdb
+C:\Users\pedro\Downloads\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll.config
+C:\Users\pedro\Downloads\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll
+C:\Users\pedro\Downloads\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.pdb
+C:\Users\pedro\Downloads\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Downloads\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.dll
+C:\Users\pedro\Downloads\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.pdb

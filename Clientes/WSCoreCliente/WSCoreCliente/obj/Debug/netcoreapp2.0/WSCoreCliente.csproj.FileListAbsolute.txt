@@ -1,0 +1,11 @@
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WSCoreCliente\WSCoreCliente\bin\Debug\netcoreapp2.0\WSCoreCliente.deps.json
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WSCoreCliente\WSCoreCliente\bin\Debug\netcoreapp2.0\WSCoreCliente.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WSCoreCliente\WSCoreCliente\bin\Debug\netcoreapp2.0\WSCoreCliente.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WSCoreCliente\WSCoreCliente\bin\Debug\netcoreapp2.0\WSCoreCliente.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WSCoreCliente\WSCoreCliente\bin\Debug\netcoreapp2.0\WSCoreCliente.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WSCoreCliente\WSCoreCliente\obj\Debug\netcoreapp2.0\WSCoreCliente.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WSCoreCliente\WSCoreCliente\obj\Debug\netcoreapp2.0\WSCoreCliente.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WSCoreCliente\WSCoreCliente\obj\Debug\netcoreapp2.0\WSCoreCliente.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WSCoreCliente\WSCoreCliente\obj\Debug\netcoreapp2.0\WSCoreCliente.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WSCoreCliente\WSCoreCliente\obj\Debug\netcoreapp2.0\WSCoreCliente.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Clientes\WSCoreCliente\WSCoreCliente\obj\Debug\netcoreapp2.0\WSCoreCliente.pdb

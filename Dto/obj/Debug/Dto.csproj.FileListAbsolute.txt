@@ -1,0 +1,10 @@
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Dto\bin\Debug\Dto.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Dto\bin\Debug\Dto.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Dto\obj\Debug\Dto.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\Dto\obj\Debug\Dto.pdb
+C:\TrabalhoFinalDotNet\Dto\bin\Debug\Dto.dll
+C:\TrabalhoFinalDotNet\Dto\bin\Debug\Dto.pdb
+C:\TrabalhoFinalDotNet\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\TrabalhoFinalDotNet\Dto\obj\Debug\Dto.dll
+C:\TrabalhoFinalDotNet\Dto\obj\Debug\Dto.pdb

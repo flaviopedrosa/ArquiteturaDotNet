@@ -49,6 +49,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UsuarioRepositorioTest.cs" />
     <Compile Include="UsuarioFilaTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -63,6 +64,10 @@
     <ProjectReference Include="..\FilaMsmq\FilaMsmq.csproj">
       <Project>{5046327c-8874-409f-9238-e99e3716375d}</Project>
       <Name>FilaMsmq</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repositorio\Repositorio.csproj">
+      <Project>{8ee8039d-aa0e-4b08-9df6-ddb84553b21d}</Project>
+      <Name>Repositorio</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

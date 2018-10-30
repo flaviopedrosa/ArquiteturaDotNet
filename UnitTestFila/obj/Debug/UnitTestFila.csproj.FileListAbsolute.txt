@@ -1,0 +1,53 @@
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\UnitTestFila.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\UnitTestFila.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Dto.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\FilaMsmq.exe
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Dto.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\FilaMsmq.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\FilaMsmq.exe.config
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\obj\Debug\UnitTestFila.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\obj\Debug\UnitTestFila.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\obj\Debug\UnitTestFila.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\obj\Debug\UnitTestFila.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\UnitTestFila\obj\Debug\UnitTestFila.pdb
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\UnitTestFila.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\UnitTestFila.pdb
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Dto.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\FilaMsmq.exe
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Dto.pdb
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\FilaMsmq.pdb
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\FilaMsmq.exe.config
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\TrabalhoFinalDotNet\UnitTestFila\obj\Debug\UnitTestFila.csprojAssemblyReference.cache
+C:\TrabalhoFinalDotNet\UnitTestFila\obj\Debug\UnitTestFila.csproj.CoreCompileInputs.cache
+C:\TrabalhoFinalDotNet\UnitTestFila\obj\Debug\UnitTestFila.csproj.CopyComplete
+C:\TrabalhoFinalDotNet\UnitTestFila\obj\Debug\UnitTestFila.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\obj\Debug\UnitTestFila.pdb
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Repositorio.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\EntityFramework.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\MySql.Data.dll
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Repositorio.pdb
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\Repositorio.dll.config
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\EntityFramework.xml
+C:\TrabalhoFinalDotNet\UnitTestFila\bin\Debug\MySql.Data.xml

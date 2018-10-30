@@ -1,0 +1,20 @@
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\FilaMsmq\bin\Debug\FilaMsmq.exe.config
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\FilaMsmq\bin\Debug\FilaMsmq.exe
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\FilaMsmq\bin\Debug\FilaMsmq.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\FilaMsmq\obj\Debug\FilaMsmq.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\FilaMsmq\obj\Debug\FilaMsmq.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\FilaMsmq\obj\Debug\FilaMsmq.exe
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\FilaMsmq\obj\Debug\FilaMsmq.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\FilaMsmq\bin\Debug\Dto.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\FilaMsmq\bin\Debug\Dto.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinalDotNet\FilaMsmq\obj\Debug\FilaMsmq.csproj.CopyComplete
+C:\TrabalhoFinalDotNet\FilaMsmq\bin\Debug\FilaMsmq.exe.config
+C:\TrabalhoFinalDotNet\FilaMsmq\bin\Debug\FilaMsmq.exe
+C:\TrabalhoFinalDotNet\FilaMsmq\bin\Debug\FilaMsmq.pdb
+C:\TrabalhoFinalDotNet\FilaMsmq\bin\Debug\Dto.dll
+C:\TrabalhoFinalDotNet\FilaMsmq\bin\Debug\Dto.pdb
+C:\TrabalhoFinalDotNet\FilaMsmq\obj\Debug\FilaMsmq.csprojAssemblyReference.cache
+C:\TrabalhoFinalDotNet\FilaMsmq\obj\Debug\FilaMsmq.csproj.CoreCompileInputs.cache
+C:\TrabalhoFinalDotNet\FilaMsmq\obj\Debug\FilaMsmq.csproj.CopyComplete
+C:\TrabalhoFinalDotNet\FilaMsmq\obj\Debug\FilaMsmq.exe
+C:\TrabalhoFinalDotNet\FilaMsmq\obj\Debug\FilaMsmq.pdb

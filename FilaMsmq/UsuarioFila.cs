@@ -31,7 +31,7 @@ namespace FilaMsmq
 
         }
 
-        public override void Processar()
+        public override Usuario Processar()
         {
             using (MessageQueueTransaction = new MessageQueueTransaction())
             {
@@ -39,13 +39,13 @@ namespace FilaMsmq
                 {
                     MessageQueueTransaction.Begin();
                     var proximoElemento = RemoverProximoElemento();
-                    Console.WriteLine("Nome:{0}\nEmail:{1}", proximoElemento.Nome, proximoElemento.Email);
                     MessageQueueTransaction.Commit();
+                    return proximoElemento;
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e.Message);
                     MessageQueueTransaction.Abort();
+                    throw e;
                 }
             }
         }
